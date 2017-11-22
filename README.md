@@ -1,1 +1,1 @@
-# cordova-plugin-ironsource-ads-mediation-hypermx-adapter
+# cordova-plugin-ironsource-ads-mediation-hyprmx-adapter
